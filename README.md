@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WebPin Logo](webpinlo.png)
+<img src="webpinlo.png" alt="WebPin Logo" width="128">
 
 **Transform any website into a native desktop application**
 
