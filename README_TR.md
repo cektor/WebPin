@@ -47,6 +47,15 @@
 
 ## 🚀 Kurulum
 
+# Linux'a doğrudan yüklemek için
+
+
+Linux (debian tabanlı) Terminal: Linux (debian tabanlı dağıtımlar) Terminal'den doğrudan yüklemek için.
+```bash
+wget -O Setup_Linux64.deb https://github.com/cektor/WebPin/releases/download/1.0.0/Setup_Linux64.deb && sudo apt install ./Setup_Linux64.deb && sudo apt-get install -f -y
+```
+
+
 ### Kaynaktan
 
 ```bash
