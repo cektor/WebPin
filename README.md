@@ -27,7 +27,7 @@
 - **🌍 Multi-Language** - English and Turkish language support
 - **🎨 Theme Support** - Light, Dark, and Auto theme modes
 - **📤 Import/Export** - Backup and restore your web apps
-- **🎁 Easter Egg** - Hidden surprise feature (click the logo 5 times in About!)
+- **🎁 Easter Egg** - Hidden surprise feature (click the logo 3 times in About!)
 
 ## 📋 Requirements
 
