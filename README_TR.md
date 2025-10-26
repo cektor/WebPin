@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WebPin Logo](webpinlo.png)
+<img src="webpinlo.png" alt="WebPin Logo" width="128">
 
 **Herhangi bir web sitesini yerel masaüstü uygulamasına dönüştürün**
 
