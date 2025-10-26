@@ -34,7 +34,7 @@
 - **🌍 Çoklu Dil** - İngilizce ve Türkçe dil desteği
 - **🎨 Tema Desteği** - Açık, Koyu ve Otomatik tema modları
 - **📤 İçe/Dışa Aktarma** - Web uygulamalarınızı yedekleyin ve geri yükleyin
-- **🎁 Easter Egg** - Gizli sürpriz özellik (Hakkında'da logoyu 5 kez tıklayın!)
+- **🎁 Easter Egg** - Gizli sürpriz özellik (Hakkında'da logoyu 3 kez tıklayın!)
 
 ## 📋 Gereksinimler
 
