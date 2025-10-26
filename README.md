@@ -1,3 +1,9 @@
+## [Türkçe Kılavuz](https://github.com/cektor/WebPin/blob/main/README_TR.md)
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # WebPin - Modern Web Application Manager
 
 <div align="center">
@@ -120,7 +126,13 @@ sudo cp language/*.ini /usr/share/webpin/language/
 
 ## 📸 Screenshots
 
-*Coming soon*
+![1](Secreenshots/1.png)
+
+![2](Secreenshots/2.png)
+
+![3](Secreenshots/3.png)
+
+![4](Secreenshots/4.png)
 
 ## 🛠️ Configuration
 
